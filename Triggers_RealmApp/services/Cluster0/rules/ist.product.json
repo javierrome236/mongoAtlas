@@ -1,0 +1,17 @@
+{
+    "collection": "product",
+    "database": "ist",
+    "id": "5fc13f0876312e569783281e",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}

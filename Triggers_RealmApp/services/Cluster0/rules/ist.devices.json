@@ -1,0 +1,17 @@
+{
+    "collection": "devices",
+    "database": "ist",
+    "id": "5fc13ec65a08a8112e0168f4",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}

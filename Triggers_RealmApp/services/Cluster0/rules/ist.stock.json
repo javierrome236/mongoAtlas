@@ -1,0 +1,17 @@
+{
+    "collection": "stock",
+    "database": "ist",
+    "id": "5fc13f0b76312e5697832af6",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}

@@ -1,0 +1,17 @@
+{
+    "collection": "user",
+    "database": "ist",
+    "id": "5fc13f0f5a08a8112e01c1e8",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}

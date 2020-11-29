@@ -1,0 +1,17 @@
+{
+    "collection": "order",
+    "database": "ist",
+    "id": "5fc13f045a08a8112e01b6ed",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}
